@@ -1,0 +1,36 @@
+C:\Users\jefer\source\repos\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\Conversor_Temperatura.exe.config
+C:\Users\jefer\source\repos\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\Conversor_Temperatura.exe
+C:\Users\jefer\source\repos\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\Conversor_Temperatura.pdb
+C:\Users\jefer\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.csproj.AssemblyReference.cache
+C:\Users\jefer\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.Form1.resources
+C:\Users\jefer\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.Properties.Resources.resources
+C:\Users\jefer\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.csproj.GenerateResource.cache
+C:\Users\jefer\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\jefer\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.exe
+C:\Users\jefer\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.pdb
+C:\Users\jefer\Desktop\ProgSw\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\Conversor_Temperatura.exe.config
+C:\Users\jefer\Desktop\ProgSw\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\Conversor_Temperatura.exe
+C:\Users\jefer\Desktop\ProgSw\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\Conversor_Temperatura.pdb
+C:\Users\jefer\Desktop\ProgSw\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\Temperatura.dll
+C:\Users\jefer\Desktop\ProgSw\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\Temperatura.pdb
+C:\Users\jefer\Desktop\ProgSw\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\ProgSw\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.Form1.resources
+C:\Users\jefer\Desktop\ProgSw\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.Properties.Resources.resources
+C:\Users\jefer\Desktop\ProgSw\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.csproj.GenerateResource.cache
+C:\Users\jefer\Desktop\ProgSw\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.csproj.CopyComplete
+C:\Users\jefer\Desktop\ProgSw\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.exe
+C:\Users\jefer\Desktop\ProgSw\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\Conversor_Temperatura.exe.config
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\Conversor_Temperatura.exe
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\Conversor_Temperatura.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\Temperatura.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\Temperatura.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.Form1.resources
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.Properties.Resources.resources
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.csproj.GenerateResource.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.csproj.CopyComplete
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.exe
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_1\Punto_1\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\Conversor_Temperatura.pdb
